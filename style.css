@@ -1,0 +1,15 @@
+.row{
+    height: 100px;
+}
+.div_one{
+    background-color: blueviolet;
+}
+.div_two{
+    background-color: green;
+}
+.reference-col{
+    height: 50px;
+    border: 1px solid #000;
+    background-color: yellow;
+    text-align: right;
+}
